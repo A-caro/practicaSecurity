@@ -1,2 +1,2 @@
 # practicaSecurity
-Practicas utilizando Spring security
+Practicas utilizando Spring Security
